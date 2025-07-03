@@ -4,26 +4,6 @@ Este projeto foi desenvolvido como **trabalho final da disciplina de Programaç�
 
 ---
 
-## 📂 Estrutura do Projeto
-
-Sistema-Escolar/
-├── src/ # Código-fonte Java
-│ ├── main.java
-│ ├── aluno.java
-│ ├── professor.java
-│ ├── pessoas.java
-│ ├── addAlunos.java
-│ ├── addAlunosAux.java
-│ ├── verificador.java
-│ └── verificadorAux.java
-├── bin/ # Arquivos compilados (.class)
-├── dadosContas.csv # Base de dados com registros
-├── .classpath
-├── .project
-└── .settings/ # Configurações do Eclipse
-
----
-
 ## 🧠 Conceitos Utilizados
 
 - **Encapsulamento** com classes e atributos privados
